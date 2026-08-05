@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-wafe5w.yoursingles.online/sitemap.xml
